@@ -13,7 +13,7 @@
     cutie_mark_description: 'Big sparkle with small sparkles.',
     cutie_mark_image_url: '',
     princess: true,
-    image_url: ''
+    image_url: 'http://img2.wikia.nocookie.net/__cb20140421122452/mlp/images/f/f6/Twilight_Sparkle_ID_S4E15.png'
   },
   {
     name: 'Rainbow Dash',
@@ -21,7 +21,7 @@
     cutie_mark_description: 'It has a cloud and a little bit of rainbow.',
     cutie_mark_image_url: '',
     princess: false,
-    image_url: ''
+    image_url: 'http://img2.wikia.nocookie.net/__cb20130812174816/mlp/images/c/c3/Rainbow_Dash_ID_S3E7.png'
   },
   {
     name: 'Luna',
@@ -45,7 +45,7 @@
     cutie_mark_description: 'Apple.',
     cutie_mark_image_url: '',
     princess: false,
-    image_url: ''
+    image_url: 'http://img2.wikia.nocookie.net/__cb20130419182236/mlp/images/d/d8/Applejack_S01E13_cropped.png'
   },
   {
     name: 'Pinkie Pie',
@@ -53,7 +53,7 @@
     cutie_mark_description: 'Three balloons.',
     cutie_mark_image_url: '',
     princess: false,
-    image_url: ''
+    image_url: 'http://img3.wikia.nocookie.net/__cb20140125185537/mlp/images/b/b2/Pinkie_Pie_ID_S4E11.png'
   },
   {
     name: 'Fluttershy',
@@ -61,7 +61,7 @@
     cutie_mark_description: 'Three butterflies.',
     cutie_mark_image_url: '',
     princess: true,
-    image_url: ''
+    image_url: 'http://img3.wikia.nocookie.net/__cb20140304133252/mlp/images/7/7e/Fluttershy_ID_S4E16.png'
   },
   {
     name: 'Cadence',
@@ -85,7 +85,7 @@
     cutie_mark_description: 'Three diamonds.',
     cutie_mark_image_url: '',
     princess: false,
-    image_url: ''
+    image_url: 'http://img1.wikia.nocookie.net/__cb20130418142043/mlp/images/d/d1/Rarity_standing_S1E19_CROPPED.png'
   },
   {
     name: 'Spike',

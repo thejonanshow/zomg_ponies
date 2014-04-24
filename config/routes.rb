@@ -1,5 +1,11 @@
 ZomgPonies3217::Application.routes.draw do
   get "welcome/index"
+  match "alicorns" => "welcome#alicorns"
+  match "unicorns" => "welcome#unicorns"
+  match "ponies" => "welcome#ponies"
+  match "pegasi" => "welcome#pegasi"
+  match "dragons" => "welcome#dragons"
+  match "zebras" => "welcome#zebras"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
@@ -50,7 +56,7 @@ ZomgPonies3217::Application.routes.draw do
 
   # You can have the root of your site routed with "root"
   # just remember to delete public/index.html.
-  # root :to => 'welcome#index'
+  root :to => 'welcome#index'
 
   # See how all your routes lay out with "rake routes"
 

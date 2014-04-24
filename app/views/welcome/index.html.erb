@@ -1,2 +1,4 @@
-<h1>Welcome#index</h1>
-<p>Find me in app/views/welcome/index.html.erb</p>
+<h1>ZOMG PONIES!</h1>
+<% @ponies.each do |pony| %>
+  <h3><%= pony.name %></h3>
+<% end %>

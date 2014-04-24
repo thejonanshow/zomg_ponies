@@ -1,0 +1,7 @@
+http://localhost:3333
+http://localhost:3333/alicorns
+http://localhost:3333/unicorns
+http://localhost:3333/ponies
+http://localhost:3333/pegasi
+http://localhost:3333/dragons
+http://localhost:3333/zebras
